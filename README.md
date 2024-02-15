@@ -8,7 +8,7 @@ Comprehensive Exploratory Data Analysis for Strategically Opening a Mediterranea
 
 ## Installation Instructions
 
-These intructions are intended for the python script not the ipynb
+These intructions are intended for the python script not the ipynb.
 Preferably install the libraries in a virtual enviroment
 
 ```bash
@@ -23,6 +23,8 @@ pip install geopandas
 - Integrate a heat map where it adds up all data based on weights to give the best location
 
 - Integrate a frontend where the user can customize said weights to best fit thier preferences
+
+- Integrate an API to pin restraunts to rent or buy
 
 ## How to tweak this project
 
