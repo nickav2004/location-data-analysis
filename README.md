@@ -26,16 +26,14 @@ pip install geopandas
 
 - Integrate a frontend where the user can customize said weights to best fit thier preferences
 
-## How to tweak this project for you own uses
+## How to tweak this project
 
-Not much to tweak but project has potential to grow into something bigger. Try by ading the features in the TO DO
+Not much to tweak but project has potential to grow into something bigger. Try by adding the features in the TO DO
 
 ## Find a bug?
 
 Find an issure or an imporvement, please submit an issure using the issues tab above. If you would like to submit a PR with a fix, reference the issue you created!
 
-## link for donations
+## Like this project?
 
-Like what I do? Feel free to contribute to my work.
-
-<a href="https://www.buymeacoffee.com/nickav"/>
+Like what I do? Feel free to contribute to my work! - https://www.buymeacoffee.com/nickav
