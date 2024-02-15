@@ -4,13 +4,21 @@
 
 This is the first assigment of ECEN-360 Computational Data Science class at Texas A&M University. add more about this descriptoin
 
-## Add video here later
+## Demo
+
+<img src="public/map_example.gif">
 
 ## Instruction to download and use for the user
 
 `Some linux commands here`
 
-## To Do. How to tweak this project for you own uses
+## To Do.
+
+- Integrate a heat map where it adds up all this data based on weights to give you the best location
+
+- Integrate a frontend where the user can customize said weights to best fit thier preferences
+
+## How to tweak this project for you own uses
 
 ## Find a bug?
 
