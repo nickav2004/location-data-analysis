@@ -13,10 +13,12 @@ This is the first assigment of ECEN-360 Computational Data Science class at Texa
 These intructions are intended for the python script not the ipynb
 Preferably install the libraries in a virtual enviroment
 
-`git clone https://github.com/nickav2004/location-data-analysis.git
+```bash
+git clone https://github.com/nickav2004/location-data-analysis.git
 pip install pandas
 pip install folium
-pip install geopandas`
+pip install geopandas
+```
 
 ## TO DO.
 
