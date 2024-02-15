@@ -6,7 +6,7 @@ This is the first assigment of ECEN-360 Computational Data Science class at Texa
 
 ## Demo
 
-<img src="https://media.giphy.com/media/f7nXNdIKLppPbqX7o2/giphy-downsized-large.gif">
+<img src="https://media.giphy.com/media/f7nXNdIKLppPbqX7o2/giphy-downsized-large.gif"/>
 
 ## Instruction to download and use for the user
 
