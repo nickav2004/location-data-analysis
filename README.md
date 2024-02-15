@@ -8,24 +8,29 @@ This is the first assigment of ECEN-360 Computational Data Science class at Texa
 
 <img src="https://i.giphy.com/f7nXNdIKLppPbqX7o2.webp"/>
 
-## Instruction to download and use for the user
+## Bash Installation Instructions
 
-`Some linux commands here`
+preferably install the libraries in a virtual enviroment
 
-## To Do.
+`git clone https://github.com/nickav2004/location-data-analysis.git`
+`pip install pandas `
+`pip install folium`
+`pip install geopandas`
 
-- Integrate a heat map where it adds up all this data based on weights to give you the best location
+## TO DO.
+
+- Integrate a heat map where it adds up all data based on weights to give the best location
 
 - Integrate a frontend where the user can customize said weights to best fit thier preferences
 
 ## How to tweak this project for you own uses
 
+Not much to tweak but project has potential to grow into something bigger. Try by ading the features in the TO DO
+
 ## Find a bug?
 
-Give instructions on how to contribute to the prooject
-
-## KnownIssues
+Find an issure or an imporvement, please submit an issure using the issues tab above. If you would like to submit a PR with a fix, reference the issue you created!
 
 ## link for donations
 
-Link to buy me a coffee
+<a href="https://www.buymeacoffee.com/nickav"/>
