@@ -38,4 +38,4 @@ Find an issure or an imporvement, please submit an issure using the issues tab a
 
 ## Like this project?
 
-Like what I do? Feel free to contribute to my work! - https://www.buymeacoffee.com/nickav
+Feel free to contribute to my work! - https://www.buymeacoffee.com/nickav
