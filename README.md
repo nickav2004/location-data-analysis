@@ -18,7 +18,7 @@ pip install folium
 pip install geopandas
 ```
 
-after that run the python script then you will see a "map.html" pop up in your files. Right click on it, open in file explore then double click it in you file explorer to open it in your browser.
+After that run the python script then you will see a "map.html" pop up in your files. Right click on it, open in file explore then double click it in you file explorer to open it in your browser.
 
 ## To Do
 
