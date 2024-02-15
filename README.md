@@ -18,7 +18,7 @@ pip install folium
 pip install geopandas
 ```
 
-## TO DO.
+## To Do
 
 - Integrate a heat map where it adds up all data based on weights to give the best location
 
