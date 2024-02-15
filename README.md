@@ -8,7 +8,7 @@ This is the first assigment of ECEN-360 Computational Data Science class at Texa
 
 <img src="https://i.giphy.com/f7nXNdIKLppPbqX7o2.webp"/>
 
-## Bash Installation Instructions
+## Installation Instructions
 
 These intructions are intended for the python script not the ipynb
 Preferably install the libraries in a virtual enviroment
@@ -35,5 +35,7 @@ Not much to tweak but project has potential to grow into something bigger. Try b
 Find an issure or an imporvement, please submit an issure using the issues tab above. If you would like to submit a PR with a fix, reference the issue you created!
 
 ## link for donations
+
+Like what I do? Feel free to contribute to my work.
 
 <a href="https://www.buymeacoffee.com/nickav"/>
