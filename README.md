@@ -1,8 +1,6 @@
 # Mediterranean Restaurant in the Fort Worth Area
 
-## Comprehensive Exploratory Data Analysis for Strategically Opening a Mediterranean Restaurant in the Fort Worth Area: Demographic Insights, Market Competition, and Consumer Preferences Evaluation
-
-This is the first assigment of ECEN-360 Computational Data Science class at Texas A&M University. add more about this descriptoin
+Comprehensive Exploratory Data Analysis for Strategically Opening a Mediterranean Restaurant in the Fort Worth Area: Demographic Insights, Market Competition, and Consumer Preferences Evaluation
 
 ## Demo
 
